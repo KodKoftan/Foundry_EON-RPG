@@ -8,6 +8,10 @@
             "namn": "Hov",
             "referens": "s115"
         },
+        "harlager" : {
+            "namn": "Härläger",
+            "referens": "s9 Strid"
+        },
         "landsbygd" : {
             "namn": "Landsbygd",
             "referens": "s115"
@@ -15,6 +19,10 @@
         "larosate" : {
             "namn": "Lärosäte",
             "referens": "s116"
+        },
+        "sekt" : {
+            "namn": "Sekt",
+            "referens": "s87 Magi"            
         },
         "stad" : {
             "namn": "Stad",
