@@ -39,6 +39,201 @@
                 }
             }
         },
+        "asharier" : {
+            "namn": "Asharier",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "aunurier" : {
+            "namn": "Aunurier",
+            "referens": "s8 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "Bazirkgurd" : {
+            "namn": "Bazirk-gürd",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
+        "Bazirktirak" : {
+            "namn": "Bazirk-tirak",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                }
+            }
+        },
+        "Bazirktrukh" : {
+            "namn": "Bazirk-trukh",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 3,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
         "cirefalier" : {
             "namn": "Cirefalier",
             "referens": "s92",
@@ -75,6 +270,240 @@
                 "utstralning": {
                     "tvarde": 2,
                     "bonus": 2
+                }
+            }
+        },
+        "daken" : {
+            "namn": "Daken",
+            "referens": "s8 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "damarier" : {
+            "namn": "Damarier",
+            "referens": "s10 Damarien",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "drezindvarg" : {
+            "namn": "Drezindvärg",
+            "referens": "s13 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "vilja": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
+        "drunok" : {
+            "namn": "Drunok",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "ebhronit" : {
+            "namn": "Ebhronit",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "eyren" : {
+            "namn": "Eyren",
+            "referens": "s10 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
                 }
             }
         },
@@ -117,6 +546,123 @@
                 }
             }
         },
+        "frakkgurd" : {
+            "namn": "Frakk-gürd",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
+        "frakktirak" : {
+            "namn": "Frakk-tirak",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
+        "frakkgurd" : {
+            "namn": "Frakk-trukh",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 4,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 4,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
         "genver" : {
             "namn": "Genver",
             "referens": "s94",
@@ -153,6 +699,84 @@
                 "utstralning": {
                     "tvarde": 2,
                     "bonus": 0
+                }
+            }
+        },
+        "ghordvarg" : {
+            "namn": "Ghordvärg",
+            "referens": "s18 Damarien",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "uppfattning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "heneaalv" : {
+            "namn": "Henéaalv",
+            "referens": "s14 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 3,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
                 }
             }
         },
@@ -273,6 +897,201 @@
                 }
             }
         },
+        "kiriyaalv" : {
+            "namn": "Kiriyaalv",
+            "referens": "s14 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 3,
+                    "bonus": 0
+                }
+            }
+        },
+        "kragg" : {
+            "namn": "Kragg",
+            "referens": "s10 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "lalaster" : {
+            "namn": "Lalaster",
+            "referens": "s10 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "leramalv" : {
+            "namn": "Léramalv",
+            "referens": "s15 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "marnakhgurd" : {
+            "namn": "Marnakh-gürd",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
+                }
+            }
+        },
         "marnakhtirak" : {
             "namn": "Marnakh-tirak",
             "referens": "s100",
@@ -309,6 +1128,45 @@
                 "utstralning": {
                     "tvarde": 2,
                     "bonus": 0
+                }
+            }
+        },
+        "marnakhtrukh" : {
+            "namn": "Marnakh-trukh",
+            "referens": "s17 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 2
                 }
             }
         },
@@ -351,8 +1209,86 @@
                 }
             }
         },
-        "pyar" : {
-            "namn": "Pyar",
+        "nermadier" : {
+            "namn": "Nermadier",
+            "referens": "s13 Nermada",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 1
+                }
+            }
+        },
+        "pereiner" : {
+            "namn": "Periner",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "pyaralv" : {
+            "namn": "Pyaralv",
             "referens": "s102",
             "lakningstakt": 1,
             "grundegenskaper": {
@@ -387,6 +1323,201 @@
                 "utstralning": {
                     "tvarde": 2,
                     "bonus": 2
+                }
+            }
+        },
+        "raun" : {
+            "namn": "Raun",
+            "referens": "s11 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "roghandvarg" : {
+            "namn": "Roghandvärg",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                }
+            }
+        },
+        "sabrier" : {
+            "namn": "Sabrier",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "sanarialv" : {
+            "namn": "Sanarialv",
+            "referens": "s15 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "talighet": {
+                    "tvarde": 1,
+                    "bonus": 3
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 3,
+                    "bonus": 2
+                },
+                "visdom": {
+                    "tvarde": 3,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "soldier" : {
+            "namn": "Soldier",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
                 }
             }
         },
@@ -429,8 +1560,242 @@
                 }
             }
         },
-        "zolod" : {
-            "namn": "Zolod",
+        "thalaskier" : {
+            "namn": "Thalaskier",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "thismalv" : {
+            "namn": "Thismalv",
+            "referens": "s16 Damarien",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "tosh" : {
+            "namn": "Tosh",
+            "referens": "s11 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 1,
+                    "bonus": 2
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 3
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                }
+            }
+        },
+        "vastmark" : {
+            "namn": "Västmark",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "vedo" : {
+            "namn": "Vedo",
+            "referens": "s12 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 1
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 1,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 1,
+                    "bonus": 3
+                }
+            }
+        },
+        "zhan" : {
+            "namn": "Zhan",
+            "referens": "s11 Äventyrarens handbok",
+            "lakningstakt": 1,
+            "grundegenskaper": {
+                "styrka": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "talighet": {
+                    "tvarde": 2,
+                    "bonus": 2
+                },
+                "rorlighet": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "uppfattning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "vilja": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "psyke": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "visdom": {
+                    "tvarde": 2,
+                    "bonus": 0
+                },
+                "utstralning": {
+                    "tvarde": 2,
+                    "bonus": 0
+                }
+            }
+        },
+        "zoloddvarg" : {
+            "namn": "Zoloddvärg",
             "referens": "s104",
             "lakningstakt": 1,
             "grundegenskaper": {
