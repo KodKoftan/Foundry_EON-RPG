@@ -8,6 +8,10 @@
             "namn": "Arrogans",
             "referens": "s144"
         },
+        "dansa" : {
+            "namn": "Dansa",
+            "referens": "s15 Kosmotropi"
+        },
         "droger" : {
             "namn": "Droger",
             "referens": "s144"
@@ -20,9 +24,17 @@
             "namn": "Flagellant",
             "referens": "s144"
         },
+        "forundran" : {
+            "namn": "Förundran",
+            "referens": "s15 Kosmotropi"
+        },
         "foralskelse" : {
             "namn": "Förälskelse",
             "referens": "s144"
+        },
+        "grymhet" : {
+            "namn": "Grymhet",
+            "referens": "s14 Geotropi"
         },
         "heder" : {
             "namn": "Heder",
@@ -32,6 +44,14 @@
             "namn": "Hjälpsam",
             "referens": "s145"
         },
+        "hybris" : {
+            "namn": "Hybris",
+            "referens": "s14 Helitropi"
+        },
+        "harsklystnad" : {
+            "namn": "Häesklystnad",
+            "referens": "s14 Helitropi"
+        },
         "kamp" : {
             "namn": "Kamp",
             "referens": "s145"
@@ -40,13 +60,25 @@
             "namn": "Kunskapstörst",
             "referens": "s145"
         },
+        "lagloshet" : {
+            "namn": "Laglöshet",
+            "referens": "s15 Kosmotropi"
+        },
         "ledarskap" : {
-            "namn": "ledarskap",
+            "namn": "Ledarskap",
             "referens": "s145"
+        },
+        "livsgladje" : {
+            "namn": "Livsglädje",
+            "referens": "s14 Biotropi"
         },
         "makt" : {
             "namn": "Makt",
             "referens": "s145"
+        },
+        "melankolisk" : {
+            "namn": "Melankolisk",
+            "referens": "s14 Geotropi"
         },
         "missionera" : {
             "namn": "Missionera",
@@ -67,6 +99,10 @@
         "plikt" : {
             "namn": "Plikt",
             "referens": "s146"
+        },
+        "pyromani" : {
+            "namn": "Pyromani",
+            "referens": "s14 Pyrotropi"
         },
         "rikedom" : {
             "namn": "Rikedom",
@@ -127,6 +163,10 @@
         "vardighet" : {
             "namn": "Värdighet",
             "referens": "s148"
+        },
+        "akalla_kosmiska_varelser" : {
+            "namn": "Åkalla kosmiska varelser",
+            "referens": "s15 Kosmotropi"
         },
         "overtygelse" : {
             "namn": "Övertygelse",
