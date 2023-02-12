@@ -16,6 +16,10 @@
             "namn": "Lärd",
             "referens": "s110"
         },
+        "magiker" : {
+            "namn": "Magiker",
+            "referens": "s86 Magi"
+        },
         "mystiker" : {
             "namn": "Mystiker",
             "referens": "s111"
@@ -27,6 +31,10 @@
         "underhallare" : {
             "namn": "Underhållare",
             "referens": "s113"
+        },
+        "vapenmastare" : {
+            "namn": "Vapenmästare",
+            "referens": "s7 Strid"
         }
     }
     
